@@ -1,0 +1,28 @@
+Question-1
+
+Description
+-Write a program to get the input as integer and create a method get Toy(int price) which uses switch case to display the toys with respect to price.
+-Insert the price through console input from the user and pass it to get Toy method
+-If the price is not matching display No Toys Available in this Range.
+
+Instructions :
+-Ensure your code compiles without any errors/warning/deprecation
+-Follow best practices while coding
+-Avoid too many & unnecessary usage of white spaces (newline, spaces, tabs...), except to make the code readable
+-Use appropriate comments at appropriate places in your exercise, to explain the logic, rational, solutions, so that evaluator can know them
+-Try to retain the original code given in the exercise, to avoid any issues in compiling & running your programs Always test the program thoroughly, before saving/submitting
+
+Warnings :
+-Take care of white space/trailing white space
+-Trim the output and avoid special characters
+-Avoid printing unnecessary values other than expected/asked output
+
+Question-2
+
+Problem Statement
+-The Trivia game should have five questions. Each Question has a corresponding answer and point value between 1 & 5 based on the difficulty of the question.
+-The winner of the game should score 15 points.
+-The Runner-up of the game should Score 10 points.
+-If the score is 3 points he/she has lost the game.
+Requirement
+-Implementation the game using 2 string type arrays. An array of type string should be used for storing the questions and answers and 1 integer array to store the points for each answer.
